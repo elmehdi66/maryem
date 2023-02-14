@@ -3598,7 +3598,7 @@ color:#fff;
     }
 
     .s-intro__content-bottom-block:last-child {
-        display : none;
+       margin-top: 20px;
     }
 }
 
